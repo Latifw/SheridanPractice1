@@ -18,7 +18,7 @@ public class TryingGitHub {
         // TODO code application logic here
         
         
-        System.err.println("Github :D");
+        System.out.println("Github :D");
         
         
     }
